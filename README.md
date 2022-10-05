@@ -2,4 +2,7 @@
 
 Este es mi primer proyecto de Git
 
-version 1.0.1
+Esta es mi tercera linea en readme
+Esta es la segunda linea del readme
+
+se realizan prueba de QA
